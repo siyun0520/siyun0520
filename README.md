@@ -12,7 +12,7 @@
 ## What I did
 - 2025 멋쟁이사자처럼 중앙해커톤(Team LUV BUG)
 <br> <small>시장통(전통시장 소비 미션 챌린지&리워드 서비스)</small>
-<br> <small>[Backend] 지도 내 점포찾기 / 영수증인증 기능 구현(Spring Boot)</small>
+<br> <small>[Backend] 지도 내 점포찾기 / 영수증 구매인증 기능 구현 (Spring Boot)</small>
 <br> https://github.com/Luv-Bug-likelion/LUV_BUG
 ##
 
