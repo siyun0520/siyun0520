@@ -1,36 +1,65 @@
-##  Hi! I'm SiYun '◡'
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1d7f&height=180&text=It's%20good%20to%20seeya!%20I'm%20Siyun%20'◡'&animation=fadeIn&fontColor=f0f0f0&fontSize=40" alt="Capsule Render: It's good to seeya! I'm Siyun" />
+</div>
 
-##
+<br>
 
-## What I can
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## 👋 Who I AM
 
+**SIYUN PARK** | Developer
+* **2005** | Based in **SEOUL**, Republic of Korea
 ##
-## What I did
-- 2025 멋쟁이사자처럼 중앙해커톤(Team LUV BUG)
-<br> <small>시장통(전통시장 소비 미션 챌린지&리워드 서비스)</small>
-<br> <small>[Backend] 지도 내 점포찾기 / 영수증 구매인증 기능 구현 (Spring Boot)</small>
-<br> https://github.com/Luv-Bug-likelion/LUV_BUG
-##
+**The Catholic University of Korea**
+* **Major:** Computer Science and Information Engineering
+    * **Intensive Major Program (1st Major) enrolled**
+    * `Mar. 2024 ~ Present` (Sophomore)
+    * **Exchange Program (Scheduled):** `Feb. 2026 ~ Jul. 2026` at Ca' Foscari University of Venice (Dipartimento di Informatica)
+
+---
+
+## 🛠️ Tech Stacks
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
+</p>
+
+---
+
+## 🧑‍💻 Experience & Activities
+
+### Experience
+* **가톨릭대 멋쟁이사자처럼 13기 (2025)** **Backend**
+* **2025 멋쟁이사자처럼 중앙해커톤 (Team: LUV BUG)**
+    * **시장통** (전통시장 소비미션 챌린지 & 리워드 서비스)
+    * [BACKEND] 지도 내 점포찾기 / 영수증 구매인증 기능 구현 (Spring Boot)
+
+---
+
+### Awards & Activities
+
+* **Awards**
+    * **Grand Prize :** 2025 CUK 창업아이디어경진대회
+* **University Roles**
+    * **Class Representative:** Sophomore Class, Department of Computer Science and Information Engineering (`2025`)
+* **Clubs / Study Groups**
+    * **ALCUK (Algorithm Study Group):** `Jul. 2024 ~ Dec. 2025`
+---
+
+## 📧 Contact & Status
+
+<p align="left">
+    <a href="https://mementomori-syun.tistory.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Blog">
+    </a>
+    <a href="mailto:pamina.yoona@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Contact">
+    </a>
+</p>
+
+<br>
 
 [![Solved.ac
-siyun0520](http://mazassumnida.wtf/api/v2/generate_badge?boj=siyun0520)](https://solved.ac/siyun0520)
-
-
-<!--
-**siyun0520/siyun0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  siyun0520](http://mazassumnida.wtf/api/v2/generate_badge?boj=siyun0520)](https://solved.ac/siyun0520)
