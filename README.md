@@ -10,11 +10,10 @@
 * **2005** | Based in **SEOUL**, Republic of Korea
 ##
 **The Catholic University of Korea**
-* **Major:** Computer Science and Information Engineering
+* **Major:** Computer Science and Information Engineering (B.A.)
     * **Intensive Major Program (1st Major) enrolled**
     * `Mar. 2024 ~ Present` (Sophomore)
     * **Exchange Program (Scheduled):** `Feb. 2026 ~ Jul. 2026` at Ca' Foscari University of Venice (Dipartimento di Informatica)
-
 ---
 
 ## 🛠️ Tech Stacks
