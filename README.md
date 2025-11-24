@@ -37,7 +37,7 @@
         * **[BACKEND]** 지도 내 점포찾기 / 영수증 구매인증 기능 구현 (Spring Boot)
 
 * **2025 가톨릭대 컴퓨터정보공학부 학술제 GLUE DAY (Team: 믿음소망사랑)**
-    * 가치산책 (산책 기록 & 봉사 인증 서비스)
+    * [가치산책 (산책 기록 & 봉사 인증 서비스)](https://github.com/Gachi-Sanchaek)
         * **[BACKEND]** 산책 진행 & 산책 인증 (플로깅 AI 인증 / QR 스캔 인증) 기능 구현 (Spring Boot)
 
 ---
