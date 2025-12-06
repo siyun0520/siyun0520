@@ -26,7 +26,7 @@
 
 ---
 
-## 🧑‍💻 Experience & Activities
+## 🧑‍💻 Experience
 
 ### Experience
 
@@ -42,15 +42,19 @@
 
 ---
 
-### Awards & Activities
+## 🏅 Awards & Activities
 
-* **Awards**
-    * **최우수상 :** 2025 CUK 창업아이디어경진대회
-    * **대상 :** 2025 가톨릭대 컴퓨터정보공학부 학술제 GLUE DAY
-* **University Roles**
-    * **Class Representative:** Sophomore Class, Department of Computer Science and Information Engineering (`2025`)
-* **Clubs / Study Groups**
-    * **ALCUK (Algorithm Study Group):** `Jul. 2024 ~ Dec. 2025`
+### Awards
+* **대상 (First Prize):** 2025 가톨릭대 컴퓨터정보공학부 학술제 GLUE DAY
+* **최우수상 (Grand Prize):** 2025 CUK 창업아이디어경진대회
+
+
+### Study Groups
+* **ALCUK (Algorithm Study Group):** `Jul. 2024 ~ Dec. 2025`
+
+### University Roles
+* **Class Representative :** Sophomore Class, Department of Computer Science and Information Engineering (`2025`)
+
 ---
 
 ## 📧 Contact & Status
