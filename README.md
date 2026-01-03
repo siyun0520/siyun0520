@@ -54,6 +54,7 @@
 
 ### University Roles
 * **Class Representative :** Sophomore Class, Department of Computer Science and Information Engineering (`2025`)
+* **Planning Team Leader :** Student Council, Department of Computer Science and Information Engineering (`2025`)
 
 ---
 
