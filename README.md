@@ -6,7 +6,7 @@
 
 ## 👋 Who I AM
 
-**SIYUN PARK** | Developer
+**SIYUN PARK** | Backend Developer
 * **2005** | Based in **SEOUL**, Republic of Korea
 ##
 **The Catholic University of Korea**
