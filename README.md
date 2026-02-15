@@ -31,7 +31,8 @@
 
 ### Experience
 
-* **가톨릭대 멋쟁이사자처럼 13기 (2025)** **Backend**
+* **LIKELION UNIV. 가톨릭대 멋쟁이사자처럼 13기 (2025)** **Backend**
+* **LIKELION UNIV. 가톨릭대 멋쟁이사자처럼 14기 (2026)** **Education Team Lead & Backend** 
 
 * **2025 멋쟁이사자처럼 중앙해커톤 (Team: LUV BUG)**
     * [시장통 (전통시장 소비미션 챌린지 & 리워드 서비스)](https://github.com/Luv-Bug-likelion)
