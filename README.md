@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1d7f&height=80&text=It's%20good%20to%20seeya!%20I'm%20Siyun%20'◡'&animation=fadeIn&fontColor=f0f0f0&fontSize=20" alt="Capsule Render: It's good to seeya! I'm Siyun" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1d7f&height=100&text=It's%20good%20to%20seeya!%20I'm%20Siyun%20'◡'&animation=fadeIn&fontColor=f0f0f0&fontSize=30" alt="Capsule Render: It's good to seeya! I'm Siyun" />
 </div>
 
 <br>
