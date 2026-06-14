@@ -4,7 +4,7 @@
 
 <br>
 
-## 👋 Who I AM
+## Who I AM
 
 **SIYUN PARK** | Developer
 * **2005** | Based in **SEOUL**, Republic of Korea
@@ -15,7 +15,7 @@
 * **Exchange Program :** `Feb. 2026 ~ Jul. 2026` at Ca' Foscari University of Venice (Dipartimento di Informatica)
 ---
 
-## 🛠️ Tech Stacks
+## Tech Stacks
 
 <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧑‍💻 Experience
+## Experience
 
 ### Experience
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏅 Awards
+## Awards
 
 ### Awards
 * **대상 (First Prize):** 2025 가톨릭대 컴퓨터정보공학부 학술제 GLUE DAY
@@ -55,7 +55,7 @@
   
 ---
 
-## 📧 Contact
+## Contact
 
 <p align="left">
     <a href="https://mementomori-syun.tistory.com/" target="_blank">
