@@ -16,7 +16,7 @@
     <a href="https://mementomori-syun.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Blog" height="50" style="margin-right: 10px;">
     </a>
-    <a href="mailto:pamina.yoona@gmail.com">
+    <a href="mailto:contact@siyun.me">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Contact" height="50" style="margin-right: 10px;">
     </a>
     <a href="https://www.linkedin.com/in/sidneypark/" target="_blank">
